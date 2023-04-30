@@ -1,5 +1,6 @@
-![Demon Slayer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ4ODU1MjVjMTU1NGVlZjhiZmU4YTQ3MzJiODIyODk0ZjI1ZjZjYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/q217GUnfKAmJlFcjBX/giphy.gif)  
-  
+![Demon Slayer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ4ODU1MjVjMTU1NGVlZjhiZmU4YTQ3MzJiODIyODk0ZjI1ZjZjYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/q217GUnfKAmJlFcjBX/giphy.gif)
+
+> “All I can do is work hard! That’s the story of my life!” - Kamado Tanjiro, Demon Slayer
 
 <a href="https://github.com/tripsy-eth" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -16,37 +17,38 @@
 <a href="https://steamcommunity.com/id/disistripsy" target="_blank">
 <img src=https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white alt=steam style="margin-bottom: 5px;" />
 </a>
+
+## Hey there 👋, I am tripsy!  
   
 
-## Hey there 👋, I am Tripsy!  
-  
 
 
+### Glad to see you here!
 
-### Glad to see you here!  
-Hi there! I'm a seasoned generalist with over six years of experience creating and delivering innovative solutions for iconic brands. My expertise lies in scaling solutions that excite consumers and grow communities.
+Hi there! I'm a seasoned generalist with over six years of experience creating and delivering cool solutions for iconic brands and companies. I specialize in cross-functional campaign ideation and execution across various departments such as operations, product features, community, design, sales, partnerships, and sometimes support (Trust me, it's not as easy as it sounds) - basically a product manager? XD
 
-My primary skillset lies in handling business operations, community, design, and sometimes support.
+My experience working with startups has taught me to wear multiple hats and evolve beyond my imagination. I love working with builders to create products that make life easier. It's a thrill to see an idea come to life and have a real impact on people's lives.
 
-I am currently expanding my skillset by learning front-end development! The journey has been a breeze so far, I love learning new technologies!  
+If you want to talk ideation, operations, or anything in between, don't hesitate to reach out to me on LinkedIn. 
+
+Let's collaborate and build something awesome together! 🔥
   
 
 <br/>  
 
 
-## Rapidfire  
+## rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working at [Bandit Network - A Web 3 Platform,](https://bandit.network/) handling the Business Operations side of things!  
+- 🔭 I’m currently working at [Bandit Network - A Web 3 Platform,](https://bandit.network/) handling the Business Operations side of things.  
+
+- 🌱 Currently learning Front-End development, Product Management and Storytelling that moves people!  
   
 
-- 🌱 I’m currently learning Front-End development and Storytelling that moves people!  
+- ❓ Ask me about anything related to Web3, I've been in this space for 2.5 years now.
   
 
-- ❓ Ask me about anything related to Web3!  
-  
-
-- ⚡ I love playing games and watching anime when I am not learning or coding or brainstorming a campaign.  
+- ⚡ I love playing games and watching anime or reading startup books when I am not learning or coding or brainstorming a campaign.  
 
 
 </td><td valign="top" width="50%">
@@ -68,7 +70,7 @@ I am currently expanding my skillset by learning front-end development! The jour
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
