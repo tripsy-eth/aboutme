@@ -43,7 +43,7 @@ I am currently expanding my skillset by learning front-end development! The jour
 - ❓ Ask me about anything related to Web3!  
   
 
-- ⚡ I love playing games and watching animes when I am not learning or coding or brainstorming a campaign.  
+- ⚡ I love playing games and watching anime when I am not learning or coding or brainstorming a campaign.  
 
 
 </td><td valign="top" width="50%">
