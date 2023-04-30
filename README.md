@@ -100,5 +100,3 @@ I am currently expanding my skillset by learning front-end development! The jour
 
 
 <br />
-
-----
